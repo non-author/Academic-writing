@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Writing Dual Review"
+  short_description: "Improve papers through author and reviewer perspectives"
+  default_prompt: "Use $academic-writing-dual-review to revise my academic paper from both author and reviewer perspectives."
